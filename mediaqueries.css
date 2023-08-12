@@ -1,0 +1,59 @@
+@media screen and (max-width: 1509px) {
+    .contentSection {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+}
+
+@media screen and (max-width: 1405px) {
+    .contentSection {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
+@media screen and (max-width: 1005px) {
+    #userInput {
+        left: 25%;
+        width: 50%;
+    }
+    #searchBtn {
+        left: 70%;
+    }
+}
+
+@media screen and (max-width: 542px) {
+    #userInput {
+        left: 25%;
+        width: 50%;
+    }
+    #searchBtn {
+        left: 65%;
+    }
+}
+
+@media screen and (max-width: 452px) {
+    .contentSection img {
+        width: 100%;
+        height: auto;
+    }
+    .titleSection h1 {
+        font-size: 65px;
+    }
+    .titleSection p {
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 395px) {
+    #userInput {
+        left: 15%;
+        width: 70%;
+    }
+    #searchBtn {
+        left: 74%;
+    }
+}
+
+
+
