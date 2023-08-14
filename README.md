@@ -8,7 +8,7 @@ With this API integration, you can easily retrieve images based on the user inpu
 > ![singin](https://github.com/AnouarElKihal/splash/assets/68613907/8e6e3067-a331-42d5-b099-01ec6e3e6c57)
 
 2. Create a new application to obtain your API access key.
-3. Once you have the API make sure to replace YOUR_UNSPLASH_API_KEY in the apiKey variable in the JavaScript file:
+3. Once you have the API make sure to replace YOUR_UNSPLASH_API_KEY in the JavaScript file:
 ```javascript
 const apiKey = "YOUR_UNSPLASH_API_KEY"
 ```
