@@ -1,7 +1,7 @@
 # SPLASH
 This project provides a simplified interface for fetching images using the UNSPLASH API. 
 Unsplash is a platform that offers high-quality, freely usable images. 
-With this API integration, you can easily retrieve images based on the user input
+With this API integration, you can easily retrieve images based on the user input.
 
 ## Getting Started
 1. Create an Unsplash developer account by visiting [Unsplash Developer](https://unsplash.com/developers).
