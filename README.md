@@ -13,7 +13,7 @@ With this API integration, you can easily retrieve images based on the user inpu
 const apiKey = "YOUR_UNSPLASH_API_KEY"
 ```
 
-## Aknowledgment
+## Acknowledgments
 Special thanks to UNSPLASH for providing their API. The full documentation for the UNSPLASH API for JavaScript can be found [here](https://github.com/unsplash/unsplash-js).
 
 ## Live Application 
