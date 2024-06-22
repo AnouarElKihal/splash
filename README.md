@@ -17,6 +17,6 @@ const apiKey = "YOUR_UNSPLASH_API_KEY"
 Special thanks to UNSPLASH for providing their API. The full documentation for the UNSPLASH API for JavaScript can be found [here](https://github.com/unsplash/unsplash-js).
 
 ## Live Application 
-You can find it online at this url: [splash.eabug.repl.co](https://splash.eabug.repl.co/)
+Online website: [splash](https://36cc9ec0-0931-404e-ba08-89beabaf2830-00-a6hkct8af4zq.picard.replit.dev/)
 > ![screen](https://github.com/AnouarElKihal/splash/assets/68613907/074e8ca8-b002-4016-8a32-d22bff591719)
 
