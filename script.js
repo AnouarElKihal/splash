@@ -7,7 +7,7 @@ const searchBtn = document.getElementById("searchBtn")
 const contentSection = document.querySelector(".contentSection")
 
 let url = ""
-const apiKey = "YOUR_UNSPLASH_API_KEY"
+const apiKey = "eki7Msky_YPYO5D2P59owYF3A-ZyceTyFj0GJ6qX0FY" // Replace with 'YOUR_UNSPLASH_API_KEY'
 
 const fetchImage = () => {
     fetch(url, {
